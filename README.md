@@ -177,27 +177,7 @@ I also use GitHub to document experiments, learning projects and development wor
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ankur-universe&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=github_dark" alt="Ankur's GitHub stats"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankur-universe&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Top languages"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
   <img src="https://streak-stats.demolab.com?user=Ankur-universe&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankur-universe&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph"/>
 
 </div>
 
